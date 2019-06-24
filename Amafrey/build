@@ -1,0 +1,66 @@
+Half-elf
+Amafrey
+
+15gp
+
+Stats
+  Base
+    STR  8 -1
+    DEX 11 +0
+    CON 13 +1
+    INT 15 +2
+    WIS 8  -1
+    CHA 15 +2
+
+  Halfelf
+    +2 CHA
+    +1 DEX
+    +1 CON
+
+    STR  8 -1
+    DEX 12 +1
+    CON 14 +2
+    INT 15 +2
+    WIS 8  -1
+    CHA 17 +3
+
+Skill Proficiencies
+  2 of choice from half-elf
+    Sleight of Hand, Performance
+  2 from Acolyte
+    Insight, Religion
+  2 from {Arcana, Deception, History, Intimidation, Investigation, Nature, Religion} from Warlock
+    Arcana, History
+
+Languages
+  Common, Elvish, 1 of choice from Elvish
+    Dwarvish
+  2 of choice from Acolyte
+    Goblin, Abyssal
+
+Stats
+  AC: 11
+  Spell Attack Modifier: +5
+  Spell Save Modifier: 13
+
+Spells
+  Base
+    2 Cantrips
+      Eldritch Blast
+      Minor Illusion
+    4 Spells known
+      Hex (Bonus action, 8h on 3rd slot, concentration)
+      Hold Person
+      Misty Step (teleport 30ft)
+      Mirror Image (create 2 decoys, every attack has a 2/3 chance of missing and attacking one of them instead)
+    2 Spell slots, lvl2
+    2 Invocations known
+      Agonizing Blast (CHA modifier gets added to Eldrich Blast damage)
+      Book of Ancient Secrets (+2 1st level spells from any class, can be cast as rituals. Can cast any known warlock spell as ritual. Can inscribe other found ritual spells into Book of Shadows if spell lvl is equal or less than half warlock lvl rounded up. Requires 2h and 50 gp.)
+        Detect Magic
+        Find Familiar
+  Pact of the Tome
+    +3 Cantrips from any class
+      Guidance
+      Thaumaturgy
+      Shape Water
