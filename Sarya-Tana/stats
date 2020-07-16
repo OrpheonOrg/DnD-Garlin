@@ -1,0 +1,54 @@
+initial stats
+  STR 10
+  DEX 14
+  CON 14
+  INT 10
+  WIS 15
+  CHA 8
+after racial (+2 WIS, +1 CHA)
+  STR 10
+  DEX 14
+  CON 14
+  INT 10
+  WIS 17
+  CHA 9
+after level 4 (+1 WIS, +1 CHA)
+  STR 10 +0
+  DEX 14 +2
+  CON 14 +2
+  INT 10 +0
+  WIS 18 +4
+  CHA 10 +0
+
+Skill Proficiencies
+  Far Traveller
+    Insight
+    Perception
+  Cleric
+    Choose 2 from
+      History
+      Insight
+    X Medicine
+    X Persuasion
+      Religion
+  Blessings of Knowledge (proficiency doubled)
+    Choose 2 from
+    X Arcana
+      History
+    X Nature
+      Religion
+
+HP
+  level 1: 8+2 = 10
+  level 5: 4*(5+2) + 10 = 38
+
+Languages
+  Racial
+    Common
+    Quori
+    +1 random language
+  Far Traveller
+    +1 random language
+  Knowledge
+    +2 random languages
+  --> Goblin, Orc, Sylvan, and Alchemist because DM
